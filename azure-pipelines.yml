@@ -6,6 +6,6 @@
 - task: CmdLine@2
   inputs:
     script: |
-      Javac AddTwoNumbers.java
-      java AddTwoNumbers.java
+      Javac AddTwoNumbers
+      java AddTwoNumbers
   
